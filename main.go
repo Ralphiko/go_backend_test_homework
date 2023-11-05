@@ -1,5 +1,6 @@
 package main
 
+//domashka
 import (
 	"fmt"
 )
